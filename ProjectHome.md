@@ -1,0 +1,1 @@
+Some apps need to script. Java can be an option to do scripting for applications written in C/C++. So, we develop a special purpose compact virtual machine.
